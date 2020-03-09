@@ -1,10 +1,10 @@
 '+-------------------+
 '        SLAY
-' ZEPPELIN GAMES 2019
+' ZEPPELIN GAMES 2020
 '+-------------------+
 $VERSIONINFO:CompanyName=Zeppelin Games
 $VERSIONINFO:ProductName=Slay
-$VERSIONINFO:LegalCopyright=(c) 2019 Zeppelin Games
+$VERSIONINFO:LegalCopyright=(c) 2020 Zeppelin Games
 
 _TITLE "SLAY" 'SET TITLE
 _FULLSCREEN 'SET FULLSCREEN
